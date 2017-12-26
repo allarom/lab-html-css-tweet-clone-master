@@ -1,0 +1,88 @@
+
+
+p {
+  padding: 0;
+  margin: 0;
+}
+
+ body {
+   font-family: Helvetica;
+   font-size: 16px;
+   background:  rgb(244, 248, 249)
+ }
+
+.main-container {
+  width: 450px;
+  padding: 20px;
+  border: 1px solid rgb(225, 232, 237);
+  border-radius: 10px;
+  background-color: rgb(255, 255, 255);
+}
+
+.follow-button {
+  color: rgb(85, 172, 238);
+  border: 2px solid rgb(85, 172, 238);
+  padding: 9px;
+  border-radius: 5px;
+  width: 100px;
+  font-size: 18px;
+  font-weight: 700;
+  float: right;
+}
+
+.follow-button img {
+  width: 20%;
+}
+
+div.follow-button {
+  text-align: center;
+  vertical-align: middle;
+
+}
+
+.name {
+  text-align: top;
+  display: inline;
+  font-weight: 600;
+  font-size: 20px;
+}
+
+.line {
+  float: left;
+
+}
+
+.account {
+  color: rgb(104, 109, 129);
+  clear: both;
+
+}
+
+.profile-picture {
+  float: left;
+  width: 12%;
+  padding-right: 8px;
+}
+
+.message {
+  padding-top: 15px;
+  clear: both;
+}
+
+.time {
+  padding-top: 15px;
+  color: rgb(101, 116, 127);
+}
+.icon {
+  width: 15%;
+}
+
+.bottom-text {
+  padding-top: 15px;
+  color: rgb(105, 120, 130);
+
+}
+.bottom-text img {
+width: 4%;
+ vertical-align: middle;
+}
