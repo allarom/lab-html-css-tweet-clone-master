@@ -86,3 +86,11 @@ div.follow-button {
 width: 4%;
  vertical-align: middle;
 }
+
+.reply {
+  padding-right: 15px;
+}
+
+.favorite {
+  padding-left: 15px;
+}
